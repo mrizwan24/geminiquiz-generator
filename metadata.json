@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Dynamic Quiz Builder",
+  "description": "An interactive quiz application that dynamically generates questions on any topic using the Gemini API. Users can take quizzes, review their results, engage in a live review session with an AI tutor, and view their quiz history.",
+  "requestFramePermissions": []
+}
